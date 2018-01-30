@@ -1,5 +1,5 @@
 # Hangman Node.js
-Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Week-10 Homework (Node Hangman)
+Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Week-11 Homework (Node Hangman)
 
 ## Description
 Created a hangman game played through Node.js and empowered using JavaScript constructors.
