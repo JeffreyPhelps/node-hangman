@@ -1,4 +1,4 @@
-// Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Week-10 Homework (Node Liri Bot)
+// Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Mod 11 Homework (Node Hangman)
 
 //require inquirer
 var inquirer = require('inquirer');
