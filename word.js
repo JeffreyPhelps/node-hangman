@@ -1,3 +1,5 @@
+// Jeffrey Phelps - DU Web Dev Bootcamp 2017/2018 - Mod-11 Homework (Node Hangman)
+
 // require letter objects
 var Letter = require('./letter.js');
 
