@@ -22,7 +22,7 @@ This is a hangman game played through Node.js and empowered using JavaScript con
 
 ## Built With
 
-* Sublime Text - Text Editor
+* Visual Studio Code - Text Editor
 * Terminal/Git Bash
 
 ## Authors
